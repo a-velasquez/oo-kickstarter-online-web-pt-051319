@@ -12,7 +12,4 @@ class Project
   end 
   
   
-  
-  
-  
 end 
